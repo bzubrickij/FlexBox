@@ -14,13 +14,13 @@ body {
   margin: 18px 0 18px 20px;
 }
 .menu {
-  line-height: 100px;
+  line-height: 90px;
 }
 .menu li {
   display: inline-block;
   text-decoration: none;
-  margin: 0 20px;
-  line-height: 100px;
+  margin: 0 15px;
+  line-height: 90px;
   font-size: 18px;
 }
 button {
@@ -30,7 +30,7 @@ button {
   height: 50px;
   background: #b3cc00;
   border: none;
-  color: white;
+  color: #ffffff ;
 }
 footer {
   text-align: center;
@@ -58,7 +58,7 @@ a {
 }
 .column-container {
   flex-direction: column;
-  background: white;
+  background: #ffffff ;
   width: 70%;
   margin: 0 auto;
   display: flex;
